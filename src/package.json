@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "devexpress-diagram": "2.1.65",
+    "devexpress-gantt": "4.1.37",
+    "devextreme": "22.2.3",
+    "devextreme-quill": "1.5.18",
+    "devextreme-react": "22.2.3",
+    "es6-object-assign": "1.1.0",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "7.4.11",
+    "inferno-compat": "7.4.11",
+    "inferno-create-class": "7.4.11",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "7.4.11",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.0",
+    "prettier": "2.7.1",
+    "prop-types": "15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "2.6.4"
+  },
+  "description": "With virtual scrolling, you can improve the overall performance of your application and reduce load times when our Scheduler component is bound to a large data set. When virtual scrolling is enabled, our Scheduler only renders visible appointments. When an appointment leaves the viewport, the Scheduler removes it from the DOM.\nTo enable virtual scrolling mode, set the scrolling.mode property to \"virtual\".\nVirtual scrolling is available for all views except \"agenda\".\n",
+  "name": "Virtual Scrolling - DevExtreme Scheduler"
+}
